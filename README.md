@@ -5,7 +5,11 @@ An intelligent AI agent designed for engineering students across all branches (C
 ---
 
 ## 🔗 Live Chatbot Link
-👉 **[Click Here to Test the Live AI Chatbot](http://cdn.botpress.cloud/webchat/v5.0/shareable.html?configUrl=https://files.bpcontent.cloud/2026/10/06/20/20261006202323-WR69YFIP.json)**
+👉 **Direct Link:**
+https://cdn.botpress.cloud/webchat/v5.0/shareable.html?configUrl=https://files.bpcontent.cloud/2026/10/06/20/20261006202323-WR69YFIP.json
+
+👉 **Clickable Text:**
+[Click Here to Test the Live AI Chatbot](https://cdn.botpress.cloud/webchat/v5.0/shareable.html?configUrl=https://files.bpcontent.cloud/2026/10/06/20/20261006202323-WR69YFIP.json)
 
 ---
 
